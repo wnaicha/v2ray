@@ -8,4 +8,6 @@ sudo apt install -y curl # Ubuntu/Debian命令
 
 安装 V2Ray 脚本：
 
-bash <(curl -sL https://down.wangchao.info/sh/v2ray/setup.sh)
+`bash <(curl -sL https://down.wangchao.info/sh/v2ray/setup.sh)`
+
+
