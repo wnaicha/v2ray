@@ -11,3 +11,4 @@ sudo apt install -y curl # Ubuntu/Debian命令
 `bash <(curl -sL https://down.wangchao.info/sh/v2ray/setup.sh)`
 
 
+![image](https://github.com/wnaicha/v2ray/assets/140796819/c88a6a94-a3db-4f84-88e4-9e30f72e48fd)
